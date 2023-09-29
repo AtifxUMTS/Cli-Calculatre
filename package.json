@@ -5,7 +5,7 @@
   "description": "simple Cli calculatre for Node projects",
   "main": "index.js",
   "scripts": {
-    "start": "npm start ./dist/ap.js"
+    "start": "node ./dist/ap.js"
   },
   "keywords": [],
   "author": "Syed",
