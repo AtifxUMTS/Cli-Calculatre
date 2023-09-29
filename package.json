@@ -1,0 +1,20 @@
+{
+  "name": "cli-calculatre",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "simple Cli calculatre for Node projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Syed",
+  "license": "ISC",
+  "dependencies": {
+    "@types/inquirer": "^9.0.3",
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.11",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}
