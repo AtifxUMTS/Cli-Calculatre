@@ -57,4 +57,4 @@ async function main() {
         console.log(chalk.bgGray.yellow(`Result is: ${result}`));
     }
 }
-main();
+export default main;
